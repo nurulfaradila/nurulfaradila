@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Software Engineer with experience across Embedded Systems, AI/ML, Frontend, Backend, and Full-Stack development.<br>I build reliable, scalable, and efficient solutions that solve real-world problems by transforming ideas into clean, maintainable code.
+I’m a Software Developer with experience across AI/ML, Backend and Full-Stack development.<br>I build reliable, scalable, and efficient solutions that solve real-world problems by transforming ideas into clean, maintainable code.
 
 
 ## 🌐 Socials:
